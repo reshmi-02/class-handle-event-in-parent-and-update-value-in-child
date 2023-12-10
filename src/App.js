@@ -1,4 +1,4 @@
-import Parent from "./component/function/parent.js";
+import Parent from "./component/class/parent.js";
 function App(){
   return(
     <div>
